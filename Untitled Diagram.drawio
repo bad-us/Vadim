@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-12-06T13:26:46.223Z" agent="5.0 (Windows)" etag="tTYmE6OdEqZbhVP4NHW3" version="13.10.9" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-06T13:29:27.354Z" agent="5.0 (Windows)" etag="33AK8dVGS0VYPDx1LanH" version="13.10.9" type="github">
   <diagram id="a45cf8ec-cd66-6f27-3ac3-be6e809c9e4a" name="Page-1">
     <mxGraphModel dx="1695" dy="451" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
       <root>
@@ -552,6 +552,20 @@
             <mxPoint x="1430" y="750" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="zaZijYf2OnXckmwoSaqb-324" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.13;entryY=0.77;entryDx=0;entryDy=0;entryPerimeter=0;shadow=1;" edge="1" parent="1" source="zaZijYf2OnXckmwoSaqb-322" target="19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="zaZijYf2OnXckmwoSaqb-322" value="YANDEX MAIL" style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cloud;" vertex="1" parent="1">
+          <mxGeometry x="468.00000000000006" y="379" width="95" height="62" as="geometry" />
+        </mxCell>
+        <mxCell id="zaZijYf2OnXckmwoSaqb-325" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;shadow=1;" edge="1" parent="1" source="zaZijYf2OnXckmwoSaqb-323" target="19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <object label="&lt;div&gt;MANGO OFFICE&lt;/div&gt;" id="zaZijYf2OnXckmwoSaqb-323">
+          <mxCell style="verticalLabelPosition=bottom;aspect=fixed;html=1;verticalAlign=top;strokeColor=none;align=center;outlineConnect=0;shape=mxgraph.citrix.cloud;" vertex="1" parent="1">
+            <mxGeometry x="580" y="480" width="95" height="62" as="geometry" />
+          </mxCell>
+        </object>
       </root>
     </mxGraphModel>
   </diagram>
